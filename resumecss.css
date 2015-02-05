@@ -17,3 +17,9 @@ ul {
 a:link {
     color: #0033FF;
 }
+a:visited {
+    color: #FF0000;
+}
+a:hover {
+    color: #00FF00;
+}

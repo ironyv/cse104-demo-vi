@@ -28,3 +28,8 @@ a:visited {
 a:hover {
     color: #FF00FF;
 }
+
+/* selected link */
+a:active {
+    color: #0000FF;
+}

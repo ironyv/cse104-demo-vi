@@ -1,10 +1,7 @@
 body {
     background-color: #cccccc;
 }
-ul {
-    list-style-type: square;
-    font: 14px arial;
-}
+
 h1 {
     font-family: comic;
 }
@@ -12,4 +9,8 @@ h1 {
 h3 {
     text-decoration: underline;
     font: italic bold 18px/30px Georgia, serif;
+}
+ul {
+    list-style-type: square;
+    font: 14px arial;
 }

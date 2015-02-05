@@ -3,6 +3,7 @@ body {
 }
 ul {
     list-style-type: square;
+    font: 14px arial;
 }
 h1 {
     font-family: comic;

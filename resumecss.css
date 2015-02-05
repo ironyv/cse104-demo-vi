@@ -1,6 +1,9 @@
 body {
     background-color: #cccccc;
 }
+ul {
+    list-style-type: square;
+}
 h1 {
     font-family: comic;
 }
